@@ -1,17 +1,5 @@
-<!-- ## Hi I'm Hossain 
-
-Call me Sain 😄
-
-💻 Computer Science Student sharing my journey and learnings in tech! </br>
-🏫 I'm a sophomore at Arizona State University, United States. </br>
-⚽ Love to play soccer! </br>
-🎮 I game sometimes and post clips on [Instagram](https://www.instagram.com/thegamingsain/). </br>
-💭 Want to be an AI Engineer. </br>
 
 
-![Sain's GitHub stats](https://github-readme-stats.vercel.app/api?username=sain4521&show_icons=true&theme=transparent) -->
-
-# 💫 About Me:
 Hi I'm Hossain<br>Call me Sain 😄<br><br>💻 Computer Science Student sharing my journey and learnings in tech!<br>🏫 I'm a sophomore at Arizona State University, United States.<br>⚽ Love to play soccer!<br>🎮 I game sometimes and post clips on [Instagram](https://www.instagram.com/thegamingsain/).<br>💭 Want to be an AI Engineer.
 
 
