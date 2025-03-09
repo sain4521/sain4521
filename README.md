@@ -1,7 +1,7 @@
 
 
 # 👾 About Me:
-Hi I'm Hossain<br>You can call me Sain 😄<br><br>💻 Computer Science Student sharing my journey and learnings in tech!<br>🏫 I'm a sophomore at Arizona State University, United States.<br>🔬 Research Assistant at Arizona State University focusing on Machine Learning and Artificial Intelligence. <br>⚽ Love to play soccer!<br>✈️ Love to travel. <br>🎮 I game sometimes and post clips on [Instagram](https://www.instagram.com/thegamingsain/). <br>💭 Want to be an AI Engineer.
+Hi I'm Hossain<br>You can call me Sain 😄<br><br>💻 Computer Science Student sharing my journey and learnings in tech!<br>🏫 I'm a sophomore at Arizona State University, United States.<br>🔬 Undergraduate Research Assistant at Arizona State University focusing on Machine Learning and Artificial Intelligence. <br>⚽ Love to play soccer!<br>✈️ Love to travel. <br>🎮 I game sometimes and post clips on [Instagram](https://www.instagram.com/thegamingsain/). <br>💭 Want to be an AI Engineer.
 
 
 ## 🌐 Socials:
